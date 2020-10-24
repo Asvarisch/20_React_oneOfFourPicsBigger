@@ -1,0 +1,33 @@
+body {
+    background-color: #e1e388;
+    box-sizing: border-box;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.container {
+    position: relative;
+    display: flex;
+    flex-flow: row wrap;
+    height: 800px;
+    width: 800px;
+}
+
+.red {
+    background-color: red;
+}
+
+.blue {
+    background-color: blue;
+}
+
+.yellow {
+    background-color: yellow;
+}
+
+.green {
+    background-color: green;
+}
+
